@@ -11,4 +11,6 @@ Thank you for being a Remak Learning Days host!
 Image:
 * ![this is the image]({{site.baseurl}}//user_1234_word_cloud.png)
 
-* ![grid formula]({{site.baseurl}}//Grid%20Forumula.png)
+* ![grid formula]({{site.baseurl}}//mpghga.png)
+
+
